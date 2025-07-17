@@ -3,7 +3,7 @@ flask-cors
 Werkzeug
 numpy
 Pillow
-tensorflow
+tensorflow==2.15.0
 opencv-python
 fastai
 torch
